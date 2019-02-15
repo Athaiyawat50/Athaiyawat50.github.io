@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "เกม",
+    "name": "Site-02-15_1142",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise-amp",
@@ -34,11 +34,8 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.7",
     "siteFonts": [],
-    "uniqCompNum": 9,
-    "versionPublish": "4.8.7",
-    "screenshot": "screenshot.png",
-    "favicon": "",
-    "noImageResize": ""
+    "uniqCompNum": 7,
+    "versionPublish": "4.8.7"
   },
   "pages": {
     "index.html": {
@@ -56,21 +53,15 @@
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
-            "blockquote": {
-              "border-color": "@lineColor"
-            },
-            "DIV": {
-              "text-align": "left",
+            ".mbr-text": {
+              "padding": "2rem 0",
               "color": "#212529"
-            },
-            "P": {
-              "text-align": "center"
             }
           },
-          "_name": "content10",
-          "_customHTML": "<section class=\"content10 mbr-section article\" plugins=\"amp-main\" group=\"Article\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#767676\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"mbr-text mbr-fonts-style mbr-col-sm-12 mbr-col-md-8\" mbr-theme-style=\"display-5\" data-multiline mbr-article><p><b><i>ช่องทางการชำระค่าไฟฟ้า</i></b></p><p>\n</p><p>การไฟฟ้าส่วนภูมิภาค หรือ PEA อำนวยความสะดวกให้ลูกค้าเลือกชำระค่าไฟฟ้าได้หลายช่องทาง ดังนี้\n</p><p>\n</p><p>1.ศูนย์บริการ PEA Front Office\n</p><p>- สำนักงานการไฟฟ้าส่วนภูมิภาค\n</p><p>- บริเวณศูนย์การค้าชั้นนำ (PEA Shop)\n</p><p>- รถ Mobile Front Office\n</p><p>\n</p><p>2.ผ่านตัวแทนเก็บเงินที่ได้รับแต่งตั้งจากการไฟฟ้าส่วนภูมิภาค\n</p><p>\n</p><p>3.ผ่านตัวแทนจุดบริการที่มีสัญลักษณ์ \n</p><p>(ค่าบริการตามอัตราที่บริษัทฯ กำหนด)\n</p><p>\n</p><p>- บริษัท เคาน์เตอร์เซอร์วิส จำกัด\n</p><p>- ธนาคารกรุงไทย จำกัด (มหาชน) \n</p><p>- บริษัท ไปรษณีย์ไทย จำกัด\n</p><p>\n</p><p>- บริษัท แอดวานซ์ เอ็มเปย์ จำกัด\n</p><p>\n</p><p>- บริษัท ทีโอที จำกัด (มหาชน)\n</p><p>\n</p><p>- ธนาคารกสิกรไทย จำกัด\n</p><p>\n</p><p>- บริษัท ทรู มันนี่ จำกัด \n</p><p>- บริษัท เพย์สบาย จำกัด\n</p><p>\n</p><p>- บริษัท เอก-ชัย ดีสทริบิวชั่น ซิสเทม จำกัด\n</p><p>- บริษัท บิ๊กซี ซูเปอร์เซ็นเตอร์ จำกัด (มหาชน)\n</p><p>\n</p><p>- ห้างเซ็นทรัล ดีพาทเมนท์สโตร์ จำกัด\n</p><p>\n</p><p>4.หักบัญชีเงินฝากธนาคาร \n</p><p>(ค่าบริการตามอัตราที่ธนาคารฯ กำหนด)\n</p><p>\n</p><p>1.บมจ.ธนาคารกรุงเทพ \n</p><p>2.บมจ.ธนาคารสแตนดาร์ดชาร์เตอร์ด ไทย\n</p><p>3.บมจ.ธนาคารกรุงไทย \n</p><p>4.ธนาคารเพื่อการเกษตรและสหกรณ์\n</p><p>5.บมจ.ธนาคารไทยพาณิชย์\n</p><p>6.ธนาคารซูมิโตโม มิตซุย แบงค์กิ้งคอร์ปอเรชั่น\n</p><p>5.บมจ.ธนาคารกสิกรไทย\n</p><p>6.ธนาคารอิสลามแห่งประเทศไทย\n</p><p>7.บมจ.ธนาคารทหารไทย \n</p><p>8.บมจ.ทิสโก้\n</p><p>9.บมจ.ธนาคารกรุงศรีอยุธยา 10.บมจ.แลนด์แอนด์เฮ้าส์\n</p><p>11.บมจ.ธนาคารยูโอบี \n</p><p>12.ธนาคารออมสิน\n</p><p>13.บมจ.ธนาคารธนชาต \n</p><p>14.ธนาคารฮ่องกงและเซี้ยงไฮ้แบ้งกิ้งคอเปอเรชั่น\n</p><p>15.ธนาคารซิตี้แบงค์ จำกัด \n</p><p>16.ธนาคารอาคารสงเคราะห์\n</p><p>17.บมจ.ซีไอเอ็มบีไทย\n</p><p>\n</p><p>5. หักบัญชีบัตรเครดิต\n</p><p>\n</p><p>-บริษัท กรุงศรีอยุธยา จำกัด \n</p><p>-บริษัท เจเนอรัล คาร์ด เซอร์วิสเซส จำกัด\n</p><p>-บริษัท บัตรกรุงไทย จำกัด (มหาชน) \n</p><p>-บริษัท ธนาคารกสิกรไทย จำกัด (มหาชน)\n</p><p>-ธนาคารซิตี้แบงก์ เอ็น.เอ. \n</p><p>-บริษัท ธนาคารยูโอบี จำกัด (มหาชน)\n</p><p>\n</p><p>6.ผ่าน Internet (ค่าบริการตามอัตราที่ธนาคารฯ กำหนด)\n</p><p>\n</p><p>ปัจจุบันมีธนาคารเข้าร่วม โครงการ 5 แห่ง คือ 1)ธนาคารกรุงศรีอยุธยา จำกัด (มหาชน) 2)ธนาคารกรุงไทย จำกัด (มหาชน)\n</p><p>3)ธนาคารไทยพาณิชย์ จำกัด (มหาชน) 4)ธนาคารกรุงเทพ จำกัด (มหาชน)\n</p><p>5)ธนาคารทหารไทย จำกัด (มหาชน)\n</p><p>\n</p><p>7.ผ่านโทรศัพท์เคลื่อนที่\n</p><p>(ค่าบริการตามอัตราที่บริษัทฯ กำหนด) \n</p><p>เฉพาะลูกค้าที่ใช้ระบบ AIS\n</p><p>เฉพาะลูกค้าที่ใช้ระบบ True\n</p><p>เฉพาะลูกค้าที่ใช้ระบบ DTAC&nbsp; &nbsp;</p><p>สามารถเเสดงเเผนภูมิภาพได้ดังนี้</p></div>\n        </div>\n    </div>\n</section>",
-          "_cid": "ri6zY7zYCp",
-          "_anchor": "content10-0",
+          "_name": "content4",
+          "_customHTML": "<section class=\"content4 mbr-section article\" plugins=\"amp-main\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-text align-center mbr-fonts-style mbr-light\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-text\" mbr-text>ช่องทางการชำระค่าไฟฟ้า<br><div>\n</div><div>การไฟฟ้าส่วนภูมิภาค หรือ PEA อำนวยความสะดวกให้ลูกค้าเลือกชำระค่าไฟฟ้าได้หลายช่องทาง ดังนี้\n</div><div>\n</div><div>1.ศูนย์บริการ PEA Front Office\n</div><div>- สำนักงานการไฟฟ้าส่วนภูมิภาค\n</div><div>- บริเวณศูนย์การค้าชั้นนำ (PEA Shop)\n</div><div>- รถ Mobile Front Office\n</div><div>\n</div><div>2.ผ่านตัวแทนเก็บเงินที่ได้รับแต่งตั้งจากการไฟฟ้าส่วนภูมิภาค\n</div><div>\n</div><div>3.ผ่านตัวแทนจุดบริการที่มีสัญลักษณ์ \n</div><div>(ค่าบริการตามอัตราที่บริษัทฯ กำหนด)\n</div><div>\n</div><div>- บริษัท เคาน์เตอร์เซอร์วิส จำกัด\n</div><div>- ธนาคารกรุงไทย จำกัด (มหาชน) \n</div><div>- บริษัท ไปรษณีย์ไทย จำกัด\n</div><div>\n</div><div>- บริษัท แอดวานซ์ เอ็มเปย์ จำกัด\n</div><div>\n</div><div>- บริษัท ทีโอที จำกัด (มหาชน)\n</div><div>\n</div><div>- ธนาคารกสิกรไทย จำกัด\n</div><div>\n</div><div>- บริษัท ทรู มันนี่ จำกัด \n</div><div>- บริษัท เพย์สบาย จำกัด\n</div><div>\n</div><div>- บริษัท เอก-ชัย ดีสทริบิวชั่น ซิสเทม จำกัด\n</div><div>- บริษัท บิ๊กซี ซูเปอร์เซ็นเตอร์ จำกัด (มหาชน)\n</div><div>\n</div><div>- ห้างเซ็นทรัล ดีพาทเมนท์สโตร์ จำกัด\n</div><div>\n</div><div>4.หักบัญชีเงินฝากธนาคาร \n</div><div>(ค่าบริการตามอัตราที่ธนาคารฯ กำหนด)\n</div><div>\n</div><div>1.บมจ.ธนาคารกรุงเทพ \n</div><div>2.บมจ.ธนาคารสแตนดาร์ดชาร์เตอร์ด ไทย\n</div><div>3.บมจ.ธนาคารกรุงไทย \n</div><div>4.ธนาคารเพื่อการเกษตรและสหกรณ์\n</div><div>5.บมจ.ธนาคารไทยพาณิชย์\n</div><div>6.ธนาคารซูมิโตโม มิตซุย แบงค์กิ้งคอร์ปอเรชั่น\n</div><div>5.บมจ.ธนาคารกสิกรไทย\n</div><div>6.ธนาคารอิสลามแห่งประเทศไทย\n</div><div>7.บมจ.ธนาคารทหารไทย \n</div><div>8.บมจ.ทิสโก้\n</div><div>9.บมจ.ธนาคารกรุงศรีอยุธยา 10.บมจ.แลนด์แอนด์เฮ้าส์\n</div><div>11.บมจ.ธนาคารยูโอบี \n</div><div>12.ธนาคารออมสิน\n</div><div>13.บมจ.ธนาคารธนชาต \n</div><div>14.ธนาคารฮ่องกงและเซี้ยงไฮ้แบ้งกิ้งคอเปอเรชั่น\n</div><div>15.ธนาคารซิตี้แบงค์ จำกัด \n</div><div>16.ธนาคารอาคารสงเคราะห์\n</div><div>17.บมจ.ซีไอเอ็มบีไทย\n</div><div>\n</div><div>5. หักบัญชีบัตรเครดิต\n</div><div>\n</div><div>-บริษัท กรุงศรีอยุธยา จำกัด \n</div><div>-บริษัท เจเนอรัล คาร์ด เซอร์วิสเซส จำกัด\n</div><div>-บริษัท บัตรกรุงไทย จำกัด (มหาชน) \n</div><div>-บริษัท ธนาคารกสิกรไทย จำกัด (มหาชน)\n</div><div>-ธนาคารซิตี้แบงก์ เอ็น.เอ. \n</div><div>-บริษัท ธนาคารยูโอบี จำกัด (มหาชน)\n</div><div>\n</div><div>6.ผ่าน Internet (ค่าบริการตามอัตราที่ธนาคารฯ กำหนด)\n</div><div>\n</div><div>ปัจจุบันมีธนาคารเข้าร่วม โครงการ 5 แห่ง คือ 1)ธนาคารกรุงศรีอยุธยา จำกัด (มหาชน) 2)ธนาคารกรุงไทย จำกัด (มหาชน)\n</div><div>3)ธนาคารไทยพาณิชย์ จำกัด (มหาชน) 4)ธนาคารกรุงเทพ จำกัด (มหาชน)\n</div><div>5)ธนาคารทหารไทย จำกัด (มหาชน)\n</div><div>\n</div><div>7.ผ่านโทรศัพท์เคลื่อนที่\n</div><div>&nbsp;(ค่าบริการตามอัตราที่บริษัทฯ กำหนด) \n</div><div>เฉพาะลูกค้าที่ใช้ระบบ AIS\n</div><div>เฉพาะลูกค้าที่ใช้ระบบ True\n</div><div>เฉพาะลูกค้าที่ใช้ระบบ DTAC</div><br><br><div><br></div></div>\n    </div>\n</section>",
+          "_cid": "ri7nvlR8wF",
+          "_anchor": "content4-0",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -107,8 +98,47 @@
             }
           },
           "_name": "image1",
-          "_customHTML": "<section class=\"image1\" group=\"Images &amp; Videos\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked=\"\">\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline=\"\" title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"66\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showText\" checked=\"\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"showText==true\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': fullWidth == false}\">\n        <div class=\"image-block\">\n            <amp-img src=\"@PROJECT_PATH@/assets/images/-1473x2083.jpg\" layout=\"responsive\" width=\"1902.9491118578974\" height=\"2691\" alt=\"Mobirise\" class=\"mobirise-loader\">\n                <div placeholder=\"\" class=\"placeholder\"></div>\n                <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/-1473x2083.jpg\" alt=\"Mobirise\" title=\"\">\n            </amp-img>\n            <div class=\"mbr-figure-caption\" mbr-if=\"showText\">\n                <p mbr-text=\"\" class=\"mbr-text mbr-black align-center mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">คณะผู้จัดทำ<br>นาย จีรพัฒน์ ผางกระโทก เลขที่ 6<br><br><br><br><br><br></p>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "ri6BLbj9oD",
+          "_customHTML": "<section class=\"image1\" group=\"Images &amp; Videos\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked=\"\">\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline=\"\" title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"66\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showText\" checked=\"\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"showText==true\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': fullWidth == false}\">\n        <div class=\"image-block\">\n            <amp-img src=\"@PROJECT_PATH@/assets/images/-646x960.jpg\" layout=\"responsive\" width=\"1886.8583333333336\" height=\"2804\" alt=\"Mobirise\" class=\"mobirise-loader\">\n                <div placeholder=\"\" class=\"placeholder\"></div>\n                <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/-646x960.jpg\" alt=\"Mobirise\" title=\"\">\n            </amp-img>\n            <div class=\"mbr-figure-caption\" mbr-if=\"showText\">\n                <p mbr-text=\"\" class=\"mbr-text mbr-black align-center mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><br><br><br><br><br><br><br></p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "ri7o9hkGIS",
+          "_anchor": "image1-2",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "background-color": "@bgColor",
+            "& when not (@fullWidth)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "width": "~\"@{videoSize}%\"",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            "amp-img": {
+              "text-align": "center"
+            },
+            ".mbr-text": {
+              "margin": "0",
+              "padding": ".5rem 0",
+              "& when (@fullWidth)": {
+                "padding": ".5rem 15px"
+              }
+            },
+            "@media (max-width: 767px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image1",
+          "_customHTML": "<section class=\"image1\" group=\"Images & Videos\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"66\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showText\" checked>\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"showText==true\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': fullWidth == false}\">\n        <div class=\"image-block\">\n            <amp-img src=\"@PROJECT_PATH@/assets/images/2-1473x2083.jpg\" layout=\"responsive\" width=\"1886.6845895343256\" height=\"2668\" alt=\"Mobirise\" class=\"mobirise-loader\">\n                <div placeholder class=\"placeholder\"></div>\n                <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/2-1473x2083.jpg\" alt=\"Mobirise\" title>\n            </amp-img>\n            <div class=\"mbr-figure-caption\" mbr-if=\"showText\">\n                <p mbr-text class=\"mbr-text mbr-black align-center mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-text\">สมาชิกผู้จัดทำ<br>นายจีรพัฒน์ &nbsp;ผางกระโทก เลขที่6<br><br><br><br></p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "ri7ourelW2",
           "_anchor": "image1-3",
           "_protectedParams": [],
           "_global": false,
@@ -146,9 +176,9 @@
             }
           },
           "_name": "image1",
-          "_customHTML": "<section class=\"image1\" group=\"Images &amp; Videos\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked=\"\">\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline=\"\" title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"66\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showText\" checked=\"\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"showText==true\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': fullWidth == false}\">\n        <div class=\"image-block\">\n            <amp-img src=\"@PROJECT_PATH@/assets/images/-960x960.jpg\" layout=\"responsive\" width=\"1903\" height=\"1903\" alt=\"Mobirise\" class=\"mobirise-loader\">\n                <div placeholder=\"\" class=\"placeholder\"></div>\n                <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/-960x960.jpg\" alt=\"Mobirise\" title=\"\">\n            </amp-img>\n            <div class=\"mbr-figure-caption\" mbr-if=\"showText\">\n                <p mbr-text=\"\" class=\"mbr-text mbr-black align-center mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><br><br><br><br>นาย ธีรชาติ สวิตต์ไทย เลขที่ 19</p>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "ri6DynBmkX",
-          "_anchor": "image1-7",
+          "_customHTML": "<section class=\"image1\" group=\"Images & Videos\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"66\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showText\" checked>\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"showText==true\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': fullWidth == false}\">\n        <div class=\"image-block\">\n            <amp-img src=\"@PROJECT_PATH@/assets/images/-960x960.jpg\" layout=\"responsive\" width=\"1887\" height=\"1887\" alt=\"Mobirise\" class=\"mobirise-loader\">\n                <div placeholder class=\"placeholder\"></div>\n                <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/-960x960.jpg\" alt=\"Mobirise\" title>\n            </amp-img>\n            <div class=\"mbr-figure-caption\" mbr-if=\"showText\">\n                <p mbr-text class=\"mbr-text mbr-black align-center mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-text\"><br><br>นายธีรชาติ สวิตต์ไทย เลขที่ 19<br><br></p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "ri7pFUrRwy",
+          "_anchor": "image1-4",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -185,8 +215,8 @@
             }
           },
           "_name": "image1",
-          "_customHTML": "<section class=\"image1\" group=\"Images &amp; Videos\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked=\"\">\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline=\"\" title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"66\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showText\" checked=\"\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"showText==true\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': fullWidth == false}\">\n        <div class=\"image-block\">\n            <amp-img src=\"@PROJECT_PATH@/assets/images/-768x960.jpg\" layout=\"responsive\" width=\"1902.684887459807\" height=\"1915\" alt=\"Mobirise\" class=\"mobirise-loader\">\n                <div placeholder=\"\" class=\"placeholder\"></div>\n                <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/-768x960.jpg\" alt=\"Mobirise\" title=\"\">\n            </amp-img>\n            <div class=\"mbr-figure-caption\" mbr-if=\"showText\">\n                <p mbr-text=\"\" class=\"mbr-text mbr-black align-center mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><br><br><br><br><br>&nbsp;นาย อฒัยวัตร ตันจิตวนิช เลขที่ 45<br><br></p>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "ri6D6IHEAy",
+          "_customHTML": "<section class=\"image1\" group=\"Images & Videos\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"66\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showText\" checked>\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"showText==true\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': fullWidth == false}\">\n        <div class=\"image-block\">\n            <amp-img src=\"@PROJECT_PATH@/assets/images/-959x960.jpg\" layout=\"responsive\" width=\"1887.0322916666667\" height=\"1889\" alt=\"Mobirise\" class=\"mobirise-loader\">\n                <div placeholder class=\"placeholder\"></div>\n                <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/-959x960.jpg\" alt=\"Mobirise\" title>\n            </amp-img>\n            <div class=\"mbr-figure-caption\" mbr-if=\"showText\">\n                <p mbr-text class=\"mbr-text mbr-black align-center mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-text\"><br><br>นายอฒัยวัตร ตันจิตวนิช เลขที่ 45<br><br></p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "ri7pUsxhVS",
           "_anchor": "image1-5",
           "_protectedParams": [],
           "_global": false,
@@ -224,9 +254,9 @@
             }
           },
           "_name": "image1",
-          "_customHTML": "<section class=\"image1\" group=\"Images &amp; Videos\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked=\"\">\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline=\"\" title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"66\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showText\" checked=\"\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"showText==true\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': fullWidth == false}\">\n        <div class=\"image-block\">\n            <amp-img src=\"@PROJECT_PATH@/assets/images/-960x638.jpg\" layout=\"responsive\" width=\"1903.448275862069\" height=\"1265\" alt=\"Mobirise\" class=\"mobirise-loader\">\n                <div placeholder=\"\" class=\"placeholder\"></div>\n                <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/-960x638.jpg\" alt=\"Mobirise\" title=\"\">\n            </amp-img>\n            <div class=\"mbr-figure-caption\" mbr-if=\"showText\">\n                <p mbr-text=\"\" class=\"mbr-text mbr-black align-center mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">\n                    Create awesome and FAST websites!\n                </p>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "ri6Ea7pWoH",
-          "_anchor": "image1-8",
+          "_customHTML": "<section class=\"image1\" group=\"Images & Videos\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"66\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showText\" checked>\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"showText==true\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': fullWidth == false}\">\n        <div class=\"image-block\">\n            <amp-img src=\"@PROJECT_PATH@/assets/images/-960x638.jpg\" layout=\"responsive\" width=\"1886.8965517241381\" height=\"1254\" alt=\"Mobirise\" class=\"mobirise-loader\">\n                <div placeholder class=\"placeholder\"></div>\n                <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/-960x638.jpg\" alt=\"Mobirise\" title>\n            </amp-img>\n            <div class=\"mbr-figure-caption\" mbr-if=\"showText\">\n                <p mbr-text class=\"mbr-text mbr-black align-center mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"></p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "ri7qbkyfBf",
+          "_anchor": "image1-6",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
